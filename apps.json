@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Coloring Book",
+    "icon": "https://raw.githubusercontent.com/DivProGamez/Collor/refs/heads/main/coloring.png",
+    "url": "https://www.amazon.com/dp/B0CEXAMPLE1"
+  },
+  {
+    "name": "Puzzle Adventure",
+    "icon": "https://raw.githubusercontent.com/DivProGamez/Collor/refs/heads/main/puzzle.png",
+    "url": "https://www.amazon.com/dp/B0CEXAMPLE2"
+  },
+  {
+    "name": "Animal Sounds",
+    "icon": "https://raw.githubusercontent.com/DivProGamez/Collor/refs/heads/main/animal.png",
+    "url": "https://www.amazon.com/dp/B0CEXAMPLE3"
+  },
+  {
+    "name": "Math Games",
+    "icon": "https://raw.githubusercontent.com/DivProGamez/Collor/refs/heads/main/math.png",
+    "url": "https://www.amazon.com/dp/B0CEXAMPLE4"
+  }
+] 
